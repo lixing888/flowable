@@ -3,9 +3,9 @@ spring:
     name: flowable
   datasource:
       driver-class-name: com.mysql.jdbc.Driver
-      url: jdbc:mysql://localhost:3306/apply?characterEncoding=utf8&useSSL=false
-      username: admin
-      password: admin
+      url: jdbc:mysql://139.129.45.208:3306/apply?characterEncoding=utf8&useSSL=false
+      username: root
+      password: beiXINzhiKE
 server:
     port: 8088
 swagger:
