@@ -1,0 +1,4 @@
+
+qsquid:S1450"ZRemove the "namesrvaddr" field and declare it as a local variable in the relevant methods.(ֻû†‘
+ssquid:UselessImportCheck
+"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(לר›
