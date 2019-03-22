@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.example.flowable.properties.RocketMqProperties",
+      "name": "rocketmq",
+      "type": "com.example.flowable.properties.RocketMqProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.example.flowable.properties.RocketMqProperties",
+      "name": "rocketmq.namesrvaddr",
+      "type": "java.util.List<java.lang.String>"
+    }
+  ]
+}
